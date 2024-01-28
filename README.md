@@ -1,4 +1,4 @@
 # learning-git
 This is my first github Respository
 <br> 
-Author - Dhanjit Nath
+Author - Dhanjit Nath(Web Devel)
